@@ -5,9 +5,6 @@
 - Interested in learning new technologies.
 - Currently working on Data Science things, such as Python, Pandas and so on.
 
-<br>
-<img align='right' src="https://komarev.com/ghpvc/?username=parvej35" alt="parvej35" />
-<br>
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parvej35&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img style="margin-left:.2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvej35&theme=cobalt&layout=compact"/>
