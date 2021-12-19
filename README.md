@@ -1,6 +1,6 @@
 <h1>Hi, I am Parvej Chowdhury</h1> <img src="https://c.tenor.com/-B81ztWwYAYAAAAj/covid-hi.gif"/>
 
-- 👋 Hi, I’m Parvej Chowdhury https://github.com/parvej35
+- 👋 Hi, I’m Parvej Chowdhury <a href="https://parvejahmed.xyz/" target="_blank">parvejahmed.xyz</a>
 - 👀 I’m interested in Learning new technologies.
 - 🌱 I’m currently learning Data Science things, such as Python, Pandas and so on.
 
