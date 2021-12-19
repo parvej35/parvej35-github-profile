@@ -6,7 +6,6 @@
 
 <img align='right' src="https://komarev.com/ghpvc/?username=mhasan-cmt" alt="mhasancmt" />
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=parvej35&show_icons=true&theme=cobalt"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parvej35&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img style="margin-left:.2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvej35&theme=cobalt&layout=compact"/>
 </p>
