@@ -1,8 +1,8 @@
-<h1>Hi, I am Parvej Chowdhury</h1> <img src="https://c.tenor.com/-B81ztWwYAYAAAAj/covid-hi.gif"/>
+<h1>Hi, I am Parvej</h1> More details is here <a href="https://parvejahmed.xyz/" target="_blank">parvejahmed.xyz</a><img src="https://c.tenor.com/-B81ztWwYAYAAAAj/covid-hi.gif"/>
 
-- 👋 Hi, I’m Parvej Chowdhury <a href="https://parvejahmed.xyz/" target="_blank">parvejahmed.xyz</a>
+- 👋 My full name is Parvej Chowdhury. More details is here <a href="https://parvejahmed.xyz/" target="_blank">parvejahmed.xyz</a>
 - 👀 I’m interested in Learning new technologies.
-- 🌱 I’m currently learning Data Science things, such as Python, Pandas and so on.
+- 🌱 Currently learning Data Science things, such as Python, Pandas and so on.
 
 <img align='right' src="https://komarev.com/ghpvc/?username=mhasan-cmt" alt="mhasancmt" />
 <p>
